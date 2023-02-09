@@ -3,9 +3,9 @@ entries:
   my_nginx:
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2023-02-08T22:51:45.381290664+03:00"
+    created: "2023-02-09T14:55:05.315871837+03:00"
     description: A Helm chart for Kubernetes
-    digest: 3a1f0b067bf8ce07dffd1077313f12b2dc8b7c88a6de6a9372b4cdd1be741671
+    digest: 155730bf7eaf27abd748d5264a99039658f5f9788d1f4f92034baca61a9b04e1
     name: my_nginx
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2023-02-08T22:51:45.380540466+03:00"
+    created: "2023-02-09T14:55:05.315579743+03:00"
     description: A Helm chart for Kubernetes
     digest: 251c044f8ddd86d01b7773d7ea26d3de5cf2b8d6333080452d8a08fd864e0caa
     name: my_nginx
@@ -21,4 +21,4 @@ entries:
     urls:
     - my_nginx-0.0.2.tgz
     version: 0.0.2
-generated: "2023-02-08T22:51:45.378123351+03:00"
+generated: "2023-02-09T14:55:05.314976915+03:00"
